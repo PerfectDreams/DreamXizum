@@ -17,7 +17,7 @@
 <img src="https://perfectdreams.net/assets/img/perfectdreams_opensource_iniciative_rounded.png">
 </a>
 </p>
-<h1 align="center">DreamXizum</h1>
+<h1 align="center">⚔️ DreamXizum ⚔️</h1>
 <p align="center">
 <a href="https://jenkins.perfectdreams.net/job/DreamXizum/"><img src="https://jenkins.perfectdreams.net/job/DreamXizum/badge/icon"></a>
 <a href="https://github.com/PerfectDreams/DreamXizum/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-AGPL%20v3-lightgray.svg"></a>
@@ -26,7 +26,7 @@
 <a href="https://github.com/PerfectDreams/DreamXizum/watchers"><img src="https://img.shields.io/github/watchers/PerfectDreams/DreamXizum.svg?style=social&label=Watch"></a>
 <a href="https://github.com/PerfectDreams/DreamXizum/stargazers"><img src="https://img.shields.io/github/stars/PerfectDreams/DreamXizum.svg?style=social&label=Stars"></a>
 </p>
-<p align="center">...</p>
+<p align="center">PvP em arenas de uma maneira rápida e fácil! </p>
 
 ## 💁 Como Ajudar?
 Existem vários repositórios [na nossa organização](https://github.com/PerfectDreams) de várias partes do PerfectDreams, caso você queria contribuir em outras partes do PerfectDreams, siga as instruções no `README.md` de cada repositório!
