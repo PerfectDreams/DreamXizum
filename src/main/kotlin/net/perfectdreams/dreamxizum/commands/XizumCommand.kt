@@ -21,11 +21,11 @@ class XizumCommand(val m: DreamXizum) : AbstractCommand("xizum", listOf("x1", "1
 
 		val joinQueue = ItemStack(Material.DIAMOND)
 				.rename("§a§lEntrar na Fila")
-				.storeMetadata("joinQueue", DreamXizum.XIZUM_DATA_KEY)
+				.storeMetadata(DreamXizum.XIZUM_DATA_KEY, "joinQueue")
 
 		val requestPlayer = ItemStack(Material.MUSIC_DISC_11)
 				.rename("§a§lChamar um amigo")
-				.storeMetadata("invitePlayer", DreamXizum.XIZUM_DATA_KEY)
+				.storeMetadata(DreamXizum.XIZUM_DATA_KEY, "invitePlayer")
 
 		inventory.setItem(0, joinQueue)
 		inventory.setItem(1, requestPlayer)
